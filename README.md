@@ -19,6 +19,7 @@ O repositório está organizado da seguinte forma:
   - **`06_conversor.c`**: Converte Celsius para Fahrenheit.
 - **`Aula2/`**: Scripts e exercícios em C, separados por atividade:
   - **`01_salario_mensal.c`**: Calcula o salário do mês. 
+  - **`02_calculo_peso.c`**: Calcula o peso ideal Masculino e Feminino. 
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
