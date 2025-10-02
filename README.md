@@ -32,6 +32,7 @@ O repositório está organizado da seguinte forma:
   - **`07_dias_semana.c`**: Número correspondente ao dia da semana.
 - **`Aula4/`**: 22/09/2025 Senai - Introdução a: *for, while & do-while.*
   - **`01_somatorio.c`**: Somatório de números utilizando laço de repetição *for*.
+  - **`02_taboada.c`**: Taboada utilizando *for*.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
