@@ -28,6 +28,7 @@ O repositório está organizado da seguinte forma:
   - **`03_identificador.c`**: Identifica o sexo.
   - **`04_identificador2.c`**: Identifica se a letra é vogal ou consoante.
   - **`05_maior3.c`**: Maior número entre três valores.
+  - **`06_maior_menor3.c`**: Maior e menor número entre três valores.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
