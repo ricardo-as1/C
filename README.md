@@ -14,6 +14,7 @@ O repositório está organizado da seguinte forma:
   - **`01_numero_informativo.c`**: Printa o número informado no terminal.
   - **`02_soma_de_numeros.c`**: Soma dois numeros informados no terminal.
   - **`03_conversor.c`**: Converte Metros para Centímetros.
+  - **`04_areaC.c`**: Mede a área de um Circulo.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
