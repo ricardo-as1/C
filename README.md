@@ -34,6 +34,7 @@ O repositório está organizado da seguinte forma:
   - **`01_somatorio.c`**: Somatório de números utilizando laço de repetição *for*.
   - **`02_taboada.c`**: Taboada utilizando *for*.
   - **`03_validacao.c`**: Validação de número utilizando *while*.
+  - **`04_notas.c`**: Avalia uma nota utilizando *while*.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
