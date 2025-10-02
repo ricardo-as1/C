@@ -21,6 +21,7 @@ O repositório está organizado da seguinte forma:
   - **`01_salario_mensal.c`**: Calcula o salário do mês. 
   - **`02_calculo_peso.c`**: Calcula o peso ideal Masculino e Feminino.
   - **`03_excesso_peso.c`**: Calcula o excesso de peso com limite.
+  - **`04_salario_descontos.c`**: Calculo de Salario + Descontos.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
