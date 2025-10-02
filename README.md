@@ -36,6 +36,7 @@ O repositório está organizado da seguinte forma:
   - **`03_validacao.c`**: Validação de número utilizando *while*.
   - **`04_notas.c`**: Avalia uma nota utilizando *while*.
   - **`05_print_num.c`**: Imprime no terminal números de 1 a 20 utilizando *for*.
+  - **`06_print_im.c`**: Imprime no terminal apenas números ímpares entre 1 e 50 utilizando *for*.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
