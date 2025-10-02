@@ -25,7 +25,8 @@ O repositório está organizado da seguinte forma:
 - **`Aula3/`**: Scripts e exercícios em C, separados por atividade:
   - **`01_diferencial.c`**: Verifica a grandeza entre dois numeros, qual é o maior e o menor.
   - **`02_verificador.c`**: Verifica se o número é positivo, negativo ou zero.
-  - **`03_identificador.c`**: Identificar o sexo.
+  - **`03_identificador.c`**: Identifica o sexo.
+  - **`04_identificador2.c`**: Identifica se a letra é vogal ou consoante
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
