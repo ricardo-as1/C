@@ -10,19 +10,19 @@ O objetivo deste repositório é consolidar o aprendizado em programação utili
 
 O repositório está organizado da seguinte forma:
 
-- **`Aula1/`**: Scripts e exercícios em C, separados por atividade:
+- **`Aula1/`**: 01/09/2025 Senai - Introdução à lógica de programação em C.
   - **`01_numero_informativo.c`**: Printa o número informado no terminal.
   - **`02_soma_de_numeros.c`**: Soma dois numeros informados no terminal.
   - **`03_conversor.c`**: Converte Metros para Centímetros.
   - **`04_areaC.c`**: Mede a área de um Circulo.
   - **`05_areaQ.c`**: Mede a área de um Quadrado.
   - **`06_conversor.c`**: Converte Celsius para Fahrenheit.
-- **`Aula2/`**: Scripts e exercícios em C, separados por atividade:
+- **`Aula2/`**: 08/09/2025 Senai - Introdução a: *if, else if & else* e continuação à lógica. 
   - **`01_salario_mensal.c`**: Calcula o salário do mês. 
   - **`02_calculo_peso.c`**: Calcula o peso ideal Masculino e Feminino.
   - **`03_excesso_peso.c`**: Calcula o excesso de peso com limite.
   - **`04_salario_descontos.c`**: Calculo de Salario + Descontos.
-- **`Aula3/`**: Scripts e exercícios em C, separados por atividade:
+- **`Aula3/`**: 15/09/2025 Senai - Continuação: *if, else if & else.*
   - **`01_diferencial.c`**: Verifica a grandeza entre dois numeros, qual é o maior e o menor.
   - **`02_verificador.c`**: Verifica se o número é positivo, negativo ou zero.
   - **`03_identificador.c`**: Identifica o sexo.
@@ -30,6 +30,8 @@ O repositório está organizado da seguinte forma:
   - **`05_maior3.c`**: Maior número entre três valores.
   - **`06_maior_menor3.c`**: Maior e menor número entre três valores.
   - **`07_dias_semana.c`**: Número correspondente ao dia da semana.
+- **`Aula4/`**: 22/09/2025 Senai - Introdução a: *for, while & do-while.*
+  - **`01_somatorio.c`**: Somatório de números utilizando laço de repetição *for*.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
