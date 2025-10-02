@@ -33,6 +33,7 @@ O repositório está organizado da seguinte forma:
 - **`Aula4/`**: 22/09/2025 Senai - Introdução a: *for, while & do-while.*
   - **`01_somatorio.c`**: Somatório de números utilizando laço de repetição *for*.
   - **`02_taboada.c`**: Taboada utilizando *for*.
+  - **`03_validacao.c`**: Validação de número utilizando *while*.
 - **`README.md`**: Este arquivo, que fornece uma visão geral do repositório.
 
 ## 🚀 Como Compilar e Executar os Scripts
